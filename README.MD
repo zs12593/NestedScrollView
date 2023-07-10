@@ -1,1 +1,1 @@
-![Alt Text](images/demo.gif)
+<img src="./demo.gif" />
